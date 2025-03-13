@@ -79,3 +79,5 @@ Excepciones:
 - Si la caravana no tiene suficiente dinero, el servicio no puede realizarse.
 
 # Diagrama de Clases
+![Diagrama de Clases CaravanaMedieval](https://github.com/user-attachments/assets/a2d07cdf-dca6-4b28-9dd8-7a007c1dbf11)
+
