@@ -1,6 +1,8 @@
 # CaravanaMedieval
 Juego de estrategia y comercio medieval en Java Spring Boot - Proyecto Desarrollo Web
 
+![image](https://github.com/user-attachments/assets/5d060bda-2dbe-41ff-9c08-a6213ae8cca5)
+
 # Casos de uso
 # Registrar una caravana
 Actor: Jugador
