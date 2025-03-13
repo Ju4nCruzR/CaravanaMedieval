@@ -76,3 +76,4 @@ Descripción: Un jugador accede a un servicio en la ciudad donde está su carava
 Excepciones:
 - Si la caravana no tiene suficiente dinero, el servicio no puede realizarse.
 
+# Diagrama de Clases
